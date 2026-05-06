@@ -12,4 +12,5 @@ function reverseString(str) {
 // Test the function
 console.log(reverseString("Hello"));      // olleH
 console.log(reverseString("JavaScript")); // tpircSavaJ
+console.log(reverseString("Node. js"));    // sj.edoN
     
